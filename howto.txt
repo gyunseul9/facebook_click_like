@@ -1,3 +1,9 @@
+0) 소스는 아래와 같이 구성되어 있습니다.
+- chromedriver
+- execute.py
+- howto.txt
+- run.sh
+
 1) 인프라스트럭쳐는 macOS, conda 환경입니다.
 
 2) 소스의 간략한 설명은 아래와 같습니다.
